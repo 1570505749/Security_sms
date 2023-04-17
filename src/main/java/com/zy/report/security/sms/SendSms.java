@@ -38,12 +38,12 @@ public class SendSms {
     /**
      * RAM账号的AccessKeyID
      */
-    private static final String ACCESS_KEY_ID = "LTAI4G6pyEy5dzvC4X2WnFnD";
+    private static final String ACCESS_KEY_ID = "*********************";
 
     /**
      * RAM账号AccessKeySecret
      */
-    private static final String SECRET = "rx3iPHs9iWogLH04cY8Dc5makLmhly";
+    private static final String SECRET = ""*********************";";
 
     /**
      * 创建CommonRequest、设置短信发送参数。
